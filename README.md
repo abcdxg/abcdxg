@@ -2,7 +2,7 @@
 - 👀 I’m interested in 编程技术
 - 🌱 I’m currently learning C,Java and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Please contact me at my email address。
+- 📫 How to reach me ...Please contact me at my email address(31668276@qq.com)
 
 <!---
 abcdxg/abcdxg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
